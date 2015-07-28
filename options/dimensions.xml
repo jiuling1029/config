@@ -8,10 +8,12 @@
     <location key="#Notifications.0.0.1366.768" x="432" y="89" />
     <location key="#PHP.0.0.1366.768" x="424" y="41" />
     <location key="FrameworkRunConsoleActionPopup.0.0.1366.768" x="523" y="323" />
-    <location key="StructurePopup.0.0.1366.768" x="459" y="151" />
+    <location key="StructurePopup.0.0.1366.768" x="458" y="150" />
     <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1366.768" x="513" y="0" />
     <location key="findTextDialog.0.0.1366.768" x="473" y="109" />
     <location key="#com.intellij.ide.util.MemberChooser.0.0.1366.768" x="488" y="77" />
+    <location key="#Interpreters.0.0.1366.768" x="263" y="17" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1600.900" x="390" y="179" />
     <size key="FrameworkRunConsoleActionPopup.0.0.1366.768" width="302" height="51" />
     <size key="StructurePopup.0.0.1366.768" width="428" height="392" />
     <size key="javadoc.popup.0.0.1366.768" width="446" height="166" />

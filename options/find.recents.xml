@@ -2,6 +2,7 @@
   <component name="FindRecents">
     <findStrings>
       <find>11</find>
+      <find>$username</find>
     </findStrings>
   </component>
 </application>

@@ -1,45 +1,61 @@
 <application>
   <component name="StatisticsApplicationUsages">
     <group name="JavaScript versions">
-      <project id="quickapp" values="DEFAULT" collectionTime="1437205669603" />
+      <project id="houqin" values="DEFAULT" collectionTime="1437904109196" />
+      <project id="quickapp" values="DEFAULT" collectionTime="1437881404478" />
     </group>
     <group name="module type">
-      <project id="quickapp" values="WEB_MODULE" collectionTime="1437205669462" />
+      <project id="houqin" values="WEB_MODULE" collectionTime="1437904108899" />
+      <project id="quickapp" values="WEB_MODULE" collectionTime="1437881404232" />
+    </group>
+    <group name="vcs">
+      <project id="houqin" values="Git" collectionTime="1437904108898" />
     </group>
     <group name="php-interpreters">
-      <project id="quickapp" values="0" collectionTime="1437205669603" />
+      <project id="houqin" values="1" collectionTime="1437904109243" />
+      <project id="quickapp" values="0" collectionTime="1437881404489" />
     </group>
     <group name="file-type">
-      <project id="quickapp" values="SQL,PATCH,PLAIN_TEXT,SourceMap,Ini,JSHint,UNKNOWN,ReST,htaccess,JSON,JavaScript,XML,PHP,Less,YAML,DTD,CSS,Images,HTML,ARCHIVE,SmartyConfig" collectionTime="1437205669462" />
+      <project id="houqin" values="JavaScript,PHP,XML,Smarty,JSON,CSS,Less,SourceMap,PLAIN_TEXT,Ini,SmartyConfig,HTML,Images,SQL,UNKNOWN,htaccess" collectionTime="1437904108910" />
+      <project id="quickapp" values="DTD,SmartyConfig,JSON,JSHint,UNKNOWN,PHP,SourceMap,PATCH,HTML,XML,ReST,PLAIN_TEXT,ARCHIVE,CSS,SQL,Images,htaccess,JavaScript,Less,YAML,Ini" collectionTime="1437881404240" />
     </group>
     <group name="php-interpreter-version">
-      <project id="quickapp" values="not installed" collectionTime="1437205669603" />
+      <project id="houqin" values="5.6.1" collectionTime="1437904109242" />
+      <project id="quickapp" values="not installed" collectionTime="1437881404485" />
+    </group>
+    <group name="php-interpreter-debug-ext">
+      <project id="houqin" values="xdebug" collectionTime="1437904109250" />
     </group>
     <group name="Command line tool">
-      <project id="quickapp" values="console in toolwindow" collectionTime="1437205669619" />
+      <project id="quickapp" values="console in toolwindow" collectionTime="1437881404504" />
     </group>
     <group name="php-include-path">
-      <project id="quickapp" values="0" collectionTime="1437205669603" />
+      <project id="houqin" values="0" collectionTime="1437904109197" />
+      <project id="quickapp" values="0" collectionTime="1437881404479" />
     </group>
     <group name="javaScript Scope Usages">
-      <project id="quickapp" values="Project,Project" collectionTime="1437205669603" />
+      <project id="houqin" values="Project,Project" collectionTime="1437904109196" />
+      <project id="quickapp" values="Project,Project" collectionTime="1437881404478" />
     </group>
     <group name="php-debug-skipped-paths">
-      <project id="quickapp" values="0" collectionTime="1437205669603" />
+      <project id="houqin" values="0" collectionTime="1437904109252" />
+      <project id="quickapp" values="0" collectionTime="1437881404491" />
     </group>
     <group name="php-servers">
-      <project id="quickapp" values="0" collectionTime="1437205669603" />
+      <project id="houqin" values="0" collectionTime="1437904109201" />
+      <project id="quickapp" values="0" collectionTime="1437881404485" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
+      <entry feature="OpenInBrowser.Chrome" count="4" />
       <entry feature="ide.settings.Appearance" count="3" />
       <entry feature="ide.settings.Colors_&amp;_Fonts" count="4" />
       <entry feature="ide.settings.Font" count="6" />
       <entry feature="ide.settings.General" count="2" />
-      <entry feature="ideaapp.started" count="5" />
+      <entry feature="ideaapp.started" count="8" />
       <entry feature="tips.of.the.day.next" count="2" />
-      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="2" />
     </counts>
   </component>
 </application>
